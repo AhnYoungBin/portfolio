@@ -18,8 +18,15 @@ paper review
 * [Unet paper]
 * [FCN paper]
 * [DeepLab paper]
+* [teacherNet]
 
-
+#### Object Detection
+* [R-CNN]
+* [Spatial Pyramid Pooling NetWork]
+* [Fast R-CNN]
+* [Faster R-CNN]
+* [Yolo]
+https://yeomko.tistory.com/13?category=851298
 Visualization
 --------------
 * featuremap visualization
