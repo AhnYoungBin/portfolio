@@ -4,20 +4,20 @@
 paper review
 ------------
 
-#### classification
+#### Classification
 * [VGG Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/vggpaper)
 * [Resnet Paper](https://github.com/AhnYoungBin/portfolio/blob/master/paper_review/resnetpaper/README.md)
 * [Densnet Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/densenetpaper)
 * [Eifficentnet Paper]
 * [Wide Resnet Paper]
 
-#### segmentation
+#### Segmentation
 * [Unet paper]
 * [FCN paper]
 * [DeepLab paper]
 
 
-visualization
+Visualization
 --------------
 * featuremap visualization
 * Grad CAM
