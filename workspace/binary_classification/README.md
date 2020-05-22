@@ -42,11 +42,68 @@ Training
 ----------
 ```
 python main.py -h
+modelnum list
+------------------------------
+1: Vgg11
+2: Vgg13
+3: Vgg16
+4: Vgg19
+5: Resnet18
+6: Resnet34
+7: Resnet50
+8: Resnet101
+9: Resnet152
+10:DenseNet121
+11:DenseNet169
+12:DenseNet201
+13:DenseNet161(growth_rate = 48)
+------------------------------
+usage: main.py [-h] [-se] [-show] modelnum lr epochs
+
+Learn by Modeling Dog Cat DataSet
+
+positional arguments:
+  modelnum    Select your model number
+  lr          Select opimizer learning rate
+  epochs      Select train epochs
+
+optional arguments:
+  -h, --help  show this help message and exit
+  -se         Put the selayer in the model.
+  -show       show to model Archtecture
 
 ```
 실험결과
 -------
+### Test Dataset의 Accuracy 비교
+
+|Model|Accuarcy|
+|---|---|
+|VGG11|0.9152|
+|VGG16|0.919|
+|Resnet18|0.869|
+|Resnet50|0.7592|
+|Densenet121|0.87|
 
 ***
-### Training & Validation Graph 비교
-### Test Dataset의 Accuracy 비교
+### Training & Validation Graph, Confusion Matrix
+> VGG11   
+   
+<img src="/workspace/binary_classification/image/3.jpg" width="80%" height="80%" title="img3" alt="img3"></img>
+
+> VGG16
+   
+<img src="/workspace/binary_classification/image/4.jpg" width="80%" height="80%" title="img4" alt="img5"></img>
+
+> Resnet18  
+   
+<img src="/workspace/binary_classification/image/5.jpg" width="80%" height="80%" title="img5" alt="img5"></img>
+
+> Resnet50 
+   
+<img src="/workspace/binary_classification/image/6.jpg" width="80%" height="80%" title="img5" alt="img5"></img>
+
+> DenseNet121
+   
+<img src="/workspace/binary_classification/image/7.jpg" width="80%" height="80%" title="img5" alt="img5"></img>
+
