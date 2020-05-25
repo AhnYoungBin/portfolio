@@ -1,4 +1,4 @@
- Portfolio
+CNN
 =========
 
 paper review
@@ -7,7 +7,7 @@ paper review
 #### Classification
 * [VGG Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/vggpaper)
 * [Resnet Paper](https://github.com/AhnYoungBin/portfolio/blob/master/paper_review/resnetpaper)
-* [MobileNetV1]
+* [MobileNetV1](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/mobilenetv1)
 * [MobileNetV2]
 * [MnasNet]
 * [Densnet Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/densenetpaper)
