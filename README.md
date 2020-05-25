@@ -7,12 +7,13 @@ paper review
 #### Classification
 * [VGG Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/vggpaper)
 * [Resnet Paper](https://github.com/AhnYoungBin/portfolio/blob/master/paper_review/resnetpaper)
+* [Wide Resnet Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/wideresnet)
 * [MobileNetV1](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/mobilenetv1)
 * [MobileNetV2]
 * [MnasNet]
 * [Densnet Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/densenetpaper)
 * [Eifficentnet Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/efficientnetpaper)
-* [Wide Resnet Paper]
+
 
 #### Segmentation
 * [Unet paper]
