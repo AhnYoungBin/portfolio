@@ -29,7 +29,7 @@ Paper review
 * [Yolo] 미완성 <!--https://yeomko.tistory.com/13?category=851298-->
 Visualization
 
-Experimental task
+Experimental Task
 -----------------
 * [Binary classification SElayer 비교](https://github.com/AhnYoungBin/portfolio/tree/master/workspace/binary_classification)
 * [Multi class classification]
