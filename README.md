@@ -36,10 +36,10 @@ Experimental task
 * segmentation
 * [featuremap visualization](https://github.com/AhnYoungBin/Featuremap_visualization)
 * [Grad CAM](https://github.com/AhnYoungBin/Grad_cam)
-* 추가 모델학습연습   
+* 추가 Model training Practice 
    - VGG16   
-      + [tesnorflow2.0](https://github.com/AhnYoungBin/vgg16_tensorflow2.0)
-      + [pytorch](https://github.com/AhnYoungBin/vgg16_pytorch)
+      + [dog vs cat 데이터세트 tesnorflow2.0 Version](https://github.com/AhnYoungBin/vgg16_tensorflow2.0)
+      + [dog vs cat 데이터세트 pytorch Version](https://github.com/AhnYoungBin/vgg16_pytorch)
    - ResNet50
-        + [tesnorflow2.0](https://github.com/AhnYoungBin/Resnet_tensrorflow)
-        + [Cifar10 pytorch](https://github.com/AhnYoungBin/Resnet50_pytorch) 
+        + [dog vs cat 데이터세트 tesnorflow2.0 Version](https://github.com/AhnYoungBin/Resnet_tensrorflow)
+        + [Cifar10 pytorch Version](https://github.com/AhnYoungBin/Resnet50_pytorch) 
