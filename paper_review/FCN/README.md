@@ -2,7 +2,7 @@ Fully Convolutional Networks for Semantic Segmentation
 =======================================================
 논문 링크 : <https://arxiv.org/pdf/1411.4038.pdf>
 
-fully Convolutional Model
+Fully Convolutional Model
 -------------------------
 > Transforming fully connected layers into convolution layers   
 
@@ -11,7 +11,7 @@ fully Convolutional Model
 FCN이 주목한 부분은 Classfication에서 성능을 검증받은 좋은 네트워크(AlexNet, VGGNet, GoogleNet) 등을 이용하는 것이다.
 이들 대부분의 Classification을 위한 네트워크 뒷단에 분류를 위한 fully connected layer가 오는데,
 이 레이어가 고정된 크기의 입력만을 받아들이는 문제가 있다. 또 한가지 결정적인 문제는 fully connected layer을 통과하면 위치정보가
-사라지게 되는 것이다. Segmentation에 이요하려면 위치 정보를 알 수 있어야 하는데 불가능 하기에 심각한 문제가 된다.   
+사라지게 되는 것이다. Segmentation에 이용하려면 위치 정보를 알 수 있어야 하는데 불가능 하기에 심각한 문제가 된다.   
 그래서 FCN 개발자들은 fully connected layer를 1x1 Convolution layer로 볼 수있다는 점을 주목하였고 위치정보를 가질 수 있게 된다.
 또한 이제는 모든 network 구조가 Convolutional network로 구성이 되기 떄문에 더 이상 입력 이미지 크기에 제한을 받지 않게 된다.
 
@@ -19,11 +19,11 @@ UpSampling
 ----------
 > Upsampling 과정   
    
-<img src="/paper_review/FCN/image/1.JPG" width="80%" height="80%" title="img1" alt="img1"></img>     
+<img src="/paper_review/FCN/image/2.JPG" width="60%" height="60%" title="img1" alt="img1"></img>     
 
 >DeConvolution 방식    
     
-<img src="/paper_review/FCN/image/3.JPG" width="80%" height="80%" title="img1" alt="img1"></img>    
+<img src="/paper_review/FCN/image/3.JPG" width="60%" height="60%" title="img1" alt="img1"></img>    
 
 여러 단계의 Convolution + pooling 단계를 거치게 되면, feaeture-map 의 크기 줄어 들게 된다.
 픽셀 단위로 예측을 하기 위하여 줄어든 feature-map을 다시 키우는 과정을 거쳐야 한다.
@@ -62,7 +62,8 @@ FCNs 연구팀은 이러한 직관을 기반으로 앞에서 구한 Dense map에
 FCN에서는 1/32 크기에서의 feature 만 이용하는게 아니라, 1/16, 1/8에서의 feature 값도 같이 사용하는 방식을 취하였다.
 
 
->실험 결과
+실험 결과
+--------
 
 >FCN-16s
    
