@@ -1,7 +1,7 @@
 CNN
 =========
 
-paper review
+Paper review
 ------------
 
 #### Classification
@@ -28,11 +28,6 @@ paper review
 * [Faster R-CNN] 미완성
 * [Yolo] 미완성 <!--https://yeomko.tistory.com/13?category=851298-->
 Visualization
---------------
-* featuremap visualization
-* Grad CAM
-* TSNE
-
 
 Experimental task
 -----------------
