@@ -63,10 +63,9 @@ Feature Pyramid Networks for Fast R-CNN
 기존의 구조에서는 입력 이미지를 pretrained model을 통과시켜서 얻은 피쳐맵에 RoI를 사상시켰습니다. 하지만 앞서서 FPN을 통해서 우리는 P2, ..., P5에 이르는 다양한 크기의 피쳐맵을 생성하였습니다.
 > RoI의 크기에 따라서 사상시킬 피쳐맵을 결정하는 수식   
    
-<img src="/paper_review/FPN/image/6.JPG" width="80%" height="80%" title="img1" alt="img1"></img>    
+<img src="/paper_review/FPN/image/6.jpg" width="40%" height="40%" title="img1" alt="img1"></img>    
 k 는 피쳐 맵의 번호입니다. 224란 크기는 pretrained model이 224x224 크기의 이미지를 학습한 것에서 따왔습니다. k0는 224x224 크기의 RoI가 들어왔을 때 몇 번째 피쳐맵에 사상시킬 것인지를 결정하는 수이며, 논문에서는 4로 설정되었습니다.
 > 
-<img src="/paper_review/FPN/image/7.JPG" width="80%" height="80%" title="img1" alt="img1"></img>    
 
 실험내용
 ----------
@@ -75,4 +74,4 @@ k 는 피쳐 맵의 번호입니다. 224란 크기는 pretrained model이 224x22
 
 <img src="/paper_review/FPN/image/7.JPG" width="80%" height="80%" title="img1" alt="img1"></img>    
 
-
+Fast-R-CNN모델을 BackBone으로 FPN의 lateral connection 과 Top-down 을 적용시킨 모델이 제일 좋은 성능을 보였고 CoCo 데이터세트에서도 다른 모델에 비하여 좋은 성능을 보여줌을 알 수 있다.
