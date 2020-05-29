@@ -27,6 +27,7 @@ Experimental Task
 * [Binary classification SElayer 비교](https://github.com/AhnYoungBin/portfolio/tree/master/workspace/binary_classification)
 * [Multi class classification]
 * segmentation
+* [Image Convert : 영상 변화에 따른 모델 Accuracy 변화](https://github.com/AhnYoungBin/portfolio/tree/master/workspace/image_convert)
 * [featuremap visualization](https://github.com/AhnYoungBin/Featuremap_visualization)
 * [Grad CAM](https://github.com/AhnYoungBin/Grad_cam)
 * 추가 Model training Practice 
