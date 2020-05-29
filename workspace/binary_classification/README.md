@@ -77,33 +77,52 @@ optional arguments:
 -------
 ### Test Dataset의 Accuracy 비교
 
-|Model|Accuarcy|
-|---|---|
-|VGG11|0.9152|
-|VGG16|0.919|
-|Resnet18|0.869|
-|Resnet50|0.7592|
-|Densenet121|0.87|
+|Model|기존모델 Accuarcy|+SE Accuarcy|
+|---|---|---|
+|VGG11|0.9152|0.848|
+|VGG16|0.919|0.9082|
+|Resnet18|0.869|0.8697|
+|Resnet50|0.7592| __|
+|Densenet121|0.87|0.897|
 
 ***
 ### Training & Validation Graph, Confusion Matrix
-> VGG11   
+#### VGG11    
+    
+> 기존모델   
    
-<img src="/workspace/binary_classification/image/3.jpg" width="80%" height="80%" title="img3" alt="img3"></img>
+<img src="/workspace/binary_classification/image/3.jpg" width="80%" height="80%" title="img3" alt="img3"></img>   
+> SEVGG11   
 
-> VGG16
-   
-<img src="/workspace/binary_classification/image/4.jpg" width="80%" height="80%" title="img4" alt="img5"></img>
+<img src="/workspace/binary_classification/image/8.jpg" width="80%" height="80%" title="img3" alt="img3"></img>   
 
-> Resnet18  
+#### VGG16
+> 기존모델   
+      
+<img src="/workspace/binary_classification/image/4.jpg" width="80%" height="80%" title="img4" alt="img5"></img>   
+> SEVGG16   
    
-<img src="/workspace/binary_classification/image/5.jpg" width="80%" height="80%" title="img5" alt="img5"></img>
+<img src="/workspace/binary_classification/image/9.jpg" width="80%" height="80%" title="img4" alt="img5"></img>     
+    
+#### Resnet18  
+> 기존모델   
+         
+<img src="/workspace/binary_classification/image/5.jpg" width="80%" height="80%" title="img5" alt="img5"></img>   
+> SEResNet18   
+      
+<img src="/workspace/binary_classification/image/10.jpg" width="80%" height="80%" title="img5" alt="img5"></img>     
 
-> Resnet50 
-   
-<img src="/workspace/binary_classification/image/6.jpg" width="80%" height="80%" title="img5" alt="img5"></img>
+#### Resnet50 
+> 기존모델   
+        
+<img src="/workspace/binary_classification/image/6.jpg" width="80%" height="80%" title="img5" alt="img5"></img>   
 
-> DenseNet121
-   
-<img src="/workspace/binary_classification/image/7.jpg" width="80%" height="80%" title="img5" alt="img5"></img>
+#### DenseNet121
+> 기존모델   
+           
+<img src="/workspace/binary_classification/image/7.jpg" width="80%" height="80%" title="img5" alt="img5"></img>    
+
+> SEDenseNet121
+<img src="/workspace/binary_classification/image/11.jpg" width="80%" height="80%" title="img5" alt="img5"></img>    
+
 
