@@ -18,6 +18,7 @@ Paper review
 #### Segmentation
 * [Unet paper] 미완성
 * [FCN paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/FCN)
+* [FPN_paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/FPN)
 * [DeepLab paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/deeplab)
 * [teacherNet] 미완성
 
