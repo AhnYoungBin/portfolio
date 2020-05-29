@@ -120,9 +120,10 @@ optional arguments:
 #### DenseNet121
 > 기존모델   
            
-<img src="/workspace/binary_classification/image/7.jpg" width="80%" height="80%" title="img5" alt="img5"></img>    
+<img src="/workspace/binary_classification/image/7.jpg" width="80%" height="80%" title="img5" alt="img5"></img>     
 
-> SEDenseNet121
+> SEDenseNet121   
+   
 <img src="/workspace/binary_classification/image/11.jpg" width="80%" height="80%" title="img5" alt="img5"></img>    
 
 
