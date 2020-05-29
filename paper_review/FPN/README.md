@@ -69,10 +69,13 @@ k 는 피쳐 맵의 번호입니다. 224란 크기는 pretrained model이 224x22
 
 실험내용
 ----------
-> 3. Object detection results using Faster R-CNN
+> Object detection results using Faster R-CNN   
+   
 <img src="/paper_review/FPN/image/8.JPG" width="80%" height="80%" title="img1" alt="img1"></img>  
 여기서  lateral connection은 skip-connection과 동일한 말이다. 
 
+> 모델 비교   
+   
 <img src="/paper_review/FPN/image/7.JPG" width="80%" height="80%" title="img1" alt="img1"></img>    
 
 Faster R-CNN모델을 BackBone으로 FPN의 lateral connection 과 Top-down 을 적용시킨 모델이 제일 좋은 성능을 보였다. 이외에도 RPN, Fast R-CNN,
