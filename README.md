@@ -8,6 +8,7 @@ Paper review
 * [Wide Resnet Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/wideresnet)
 * [MobileNetV1](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/mobilenetv1)
 * [Densnet Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/densenetpaper)
+* [SENet Paper](https://github.com/AhnYoungBin/portfolio/blob/master/paper_review/senet/Squeeze-and-Excitation_Net.md)
 * [Eifficentnet Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/efficientnetpaper)
 * [Unet paper](https://github.com/AhnYoungBin/portfolio/blob/master/paper_review/Unet/README.md)
 * [FCN paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/FCN)
