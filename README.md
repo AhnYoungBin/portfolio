@@ -14,11 +14,11 @@ Paper review
 * [FCN paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/FCN)
 * [FPN_paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/FPN)
 * [DeepLab paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/deeplab)
-* [R-CNN] 미완성
+ <!--* [R-CNN] 미완성
 * [Spatial Pyramid Pooling NetWork] 미완성
 * [Fast R-CNN] 미완성
 * [Faster R-CNN] 미완성
-* [Yolo] 미완성 <!--https://yeomko.tistory.com/13?category=851298-->
+* [Yolo] 미완성https://yeomko.tistory.com/13?category=851298-->
 
 Experimental Task
 -----------------
