@@ -7,15 +7,12 @@ Paper review
 * [Resnet Paper](https://github.com/AhnYoungBin/portfolio/blob/master/paper_review/resnetpaper)
 * [Wide Resnet Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/wideresnet)
 * [MobileNetV1](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/mobilenetv1)
-* [MobileNetV2] 미완성
-* [MnasNet] 미완성
 * [Densnet Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/densenetpaper)
 * [Eifficentnet Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/efficientnetpaper)
 * [Unet paper] 미완성
 * [FCN paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/FCN)
 * [FPN_paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/FPN)
 * [DeepLab paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/deeplab)
-* [teacherNet] 미완성
 * [R-CNN] 미완성
 * [Spatial Pyramid Pooling NetWork] 미완성
 * [Fast R-CNN] 미완성
@@ -25,8 +22,7 @@ Paper review
 Experimental Task
 -----------------
 * [Binary classification SElayer 비교](https://github.com/AhnYoungBin/portfolio/tree/master/workspace/binary_classification)
-* [Multi class classification]
-* segmentation
+* [Multi class classification : Kaggle Pathology2020](https://github.com/AhnYoungBin/portfolio/tree/master/kaggle_plant_pathology2020)
 * [Image Convert : 영상 변화에 따른 모델 Accuracy 변화](https://github.com/AhnYoungBin/portfolio/tree/master/workspace/image_convert)
 * [featuremap visualization](https://github.com/AhnYoungBin/Featuremap_visualization)
 * [Grad CAM](https://github.com/AhnYoungBin/Grad_cam)
