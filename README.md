@@ -9,7 +9,7 @@ Paper review
 * [MobileNetV1](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/mobilenetv1)
 * [Densnet Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/densenetpaper)
 * [Eifficentnet Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/efficientnetpaper)
-* [Unet paper] (https://github.com/AhnYoungBin/portfolio/blob/master/paper_review/Unet/README.md)
+* [Unet paper](https://github.com/AhnYoungBin/portfolio/blob/master/paper_review/Unet/README.md)
 * [FCN paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/FCN)
 * [FPN_paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/FPN)
 * [DeepLab paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/deeplab)
@@ -22,7 +22,7 @@ Paper review
 Experimental Task
 -----------------
 * [Binary classification SElayer 비교](https://github.com/AhnYoungBin/portfolio/tree/master/workspace/binary_classification)
-* [Multi class classification : Kaggle Pathology2020](https://github.com/AhnYoungBin/portfolio/tree/master/kaggle_plant_pathology2020)
+* [Multi class classification : Kaggle Pathology2020](https://github.com/AhnYoungBin/portfolio/tree/master/workspace/kaggle_plant_pathology2020)
 * [Image Convert : 영상 변화에 따른 모델 Accuracy 변화](https://github.com/AhnYoungBin/portfolio/tree/master/workspace/image_convert)
 * [featuremap visualization](https://github.com/AhnYoungBin/Featuremap_visualization)
 * [Grad CAM](https://github.com/AhnYoungBin/Grad_cam)
