@@ -9,7 +9,7 @@ Paper review
 * [MobileNetV1](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/mobilenetv1)
 * [Densnet Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/densenetpaper)
 * [Eifficentnet Paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/efficientnetpaper)
-* [Unet paper] 미완성
+* [Unet paper] (https://github.com/AhnYoungBin/portfolio/blob/master/paper_review/Unet/README.md)
 * [FCN paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/FCN)
 * [FPN_paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/FPN)
 * [DeepLab paper](https://github.com/AhnYoungBin/portfolio/tree/master/paper_review/deeplab)
